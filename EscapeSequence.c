@@ -19,7 +19,7 @@ printf("\nQuestion mark will be printed : \? \n");
 
 printf("\nAlert or bell sound will be produced :  \a \n");
 
-printf("\nBackSpace will be printed : \b successfully \n");
+printf("\nBackSpace will be printed : \b\bsuccessfully \n");
 
 printf("\nForm Feed will be printed : \f successfully \n");
 
