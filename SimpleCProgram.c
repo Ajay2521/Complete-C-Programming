@@ -1,4 +1,4 @@
-/*Note any statement which is present inside this is called as Comments which will be ignored by C complier while compling the C program source code*/
+/*Note any statement which is present inside a black slash followed by Astrix symbol then it is called as Comments which will be ignored by C complier while compling the C program source code*/
 
 /*the first line of the program consist of preprocessor commands which is used to inculde a pre-defined funcctions avaliable in c progarmming which is needed to built the c program*/
 
