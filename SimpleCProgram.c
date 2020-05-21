@@ -1,3 +1,5 @@
+/*Note any statement which is present inside this /*..*/ is called as Comments which will be ignored by C complier while compling the C program source code*/
+
 /*the first line of the program consist of preprocessor commands which is used to inculde a pre-defined funcctions avaliable in c progarmming which is needed to built the c program*/
 
 #include <stdio.h>
@@ -10,7 +12,7 @@ int main()
 {
 
 /* printf is standard per defined function which is used to print the statement which is present inside the double quotes */
-printf("Hello, World! \n");
+printf("Hello, Its is an Simple C program.!");
 
 /*return will be used is return the value of a function , it was an optional one */
 
