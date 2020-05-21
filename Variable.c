@@ -19,10 +19,10 @@ float c=20.450;
 
 /*Accessing the variable value by using the variable name*/
 
-print("\nThe value of int a is : %d \n",a);
+printf("\nThe value of int a is : %d \n",a);
 
-print("\nThe value of char b is : %c \n",b);
+printf("\nThe value of char b is : %c \n",b);
 
-print("\nThe value of float c is : %f  \n",c);
+printf("\nThe value of float c is : %f  \n",c);
 
 }
