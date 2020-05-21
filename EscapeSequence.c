@@ -27,7 +27,7 @@ printf("\nNew line will be printed : \nsuccessfully\n ");
 
 printf("\nHorizontal tab will be printed : \tsuccessfully\n ");
 
-printf("\nVertical tab will be printed : \vsuccessfully in the program \n ");
+printf("\nVertical tab will be printed : \vsuccessfully\n ");
 
 }
 
