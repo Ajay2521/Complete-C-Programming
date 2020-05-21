@@ -19,15 +19,15 @@ printf("\nQuestion mark will be printed : \? \n");
 
 printf("\nAlert or bell sound will be produced :  \a \n");
 
-printf("\nBackSpace will be printed : \b\bsuccessfully \n");
+printf("\nBackSpace Key function will be done : \b\bsuccessfully \n");
 
-printf("\nForm Feed will be printed : \f successfully \n");
+printf("\nForm Feed will be printed : \f successfully in the program  \n");
 
 printf("\nNew line will be printed : \nsuccessfully\n ");
 
 printf("\nHorizontal tab will be printed : \tsuccessfully\n ");
 
-printf("\nVertical tab will be printed : \vsuccessfully\n ");
+printf("\nVertical tab will be printed : \vsuccessfully in the program \n ");
 
 }
 
