@@ -58,6 +58,6 @@ printf("\nThe Increment Value of a is %d\n",a );
 
 a--;
 
-printf("\nThe Decrement Value of  a  is %d\n",a );
+printf("\nThe Decrement Value of a is %d\n",a );
 
 }
