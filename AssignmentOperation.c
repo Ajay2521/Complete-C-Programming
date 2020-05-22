@@ -58,31 +58,31 @@ printf("\n %%= ( MODULUS And Assignement Operation) Operator Example, Value of c
 
 c = 10;
 
-c <<= 2;
+c <<= 2; /* which is c = c << 2*/
 
 printf("\n <<= ( LEFT SHIFT And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* >>= ( RIGHT SHIFT And Assignement Operation) Operator Example*/
 
-c >>= 2;
+c >>= 2; /* which is c = c >> 2 */
 
 printf("\n >>= ( RIGHT SHIFT And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* &= ( BITWISE AND And Assignement Operation) Operator Example*/
 
-c &= 2;
+c &= 2; /* which is c = c & 2 */
 
 printf("\n &= ( BITWISE AND And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* ^= ( BITWISE EXCLUSIVE OR And Assignement Operation) Operator Example*/
 
-c ^= 2;
+c ^= 2; /* which is c = c ^ a */
 
 printf("\n ^= ( BITWISE EXCLUSIVE OR And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* ^= ( BITWISE INCLUSIVE OR And Assignement Operation) Operator Example*/
 
-c |= 2;
+c |= 2; /* which is c = c | a */
 
 printf("\n |= ( BITWISE INCLUSIVE OR And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
