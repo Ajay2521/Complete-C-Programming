@@ -24,11 +24,11 @@ c = a + b;
 
 printf("\nThe Addition of %d and %d  is c = %d\n",a,b,c );
 
-/*Subtraction Operation which is used to Subtract the Value from Variable 'b' to 'a' and store the Result in Variable 'c'*/
+/*Subtraction Operation which is used to Subtract the Value from Variable 'a' to 'b' and store the Result in Variable 'c'*/
 
-c = b - a;
+c = a - b;
 
-printf("\nThe Subtarction of %d from %d is c = %d\n",b,a,c );
+printf("\nThe Subtarction of %d from %d is c = %d\n",a,b,c );
 
 /*Multiplication Operation which is used to Multiply the Value present in the  Variable 'a' and 'b' and store the Result in Variable 'c'*/
 
@@ -52,12 +52,12 @@ printf("\nThe Modulus of %d by %d is c = %d\n",a,b,c );
 
 c = a++;
 
-printf("/nThe Increment Value of %d is c = %d\n",a,c );
+printf("\nThe Increment Value of %d is c = %d\n",a,c );
 
 /*Decrement operator is used to decreases the integer value by one.*/
 
 c = a--;
 
-printf("/nThe Decrement Value of %d is c = %d\n",a,c );
+printf("\nThe Decrement Value of %d is c = %d\n",a,c );
 
 }
