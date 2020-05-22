@@ -48,7 +48,7 @@ printf("\n /= ( DIVISION And Assignement Operation) Operator Example, Value of c
 
 /* %= ( MODULUS And Assignement Operation) Operator Example*/
 
-c = 200; 
+c = 11; 
 
 c %= a; /* which is c = c % a */
 
