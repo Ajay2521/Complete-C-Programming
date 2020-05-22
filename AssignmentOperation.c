@@ -18,43 +18,45 @@ int c ;
 
 /* =(EQUAL TO) Operator Example*/
 
-c = a;
+c = a;  /* which is c = a */
 
 printf("\n = Operator Example, Value of c = %d\n", c );
 
 /* += ( ADD And Assignement Operation) Operator Example*/
 
-c += a;
+c += a; /* which is c = c + a */
 
 printf("\n += ( ADD And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* -= ( SUB And Assignement Operation) Operator Example*/
 
-c -= a;
+c -= a; /* which is c = c - a */
 
 printf("\n -= ( SUB And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* *= ( MULTI And Assignement Operation) Operator Example*/
 
-c *= a;
+c *= a; /* which is c = c * a */
 
 printf("\n *= ( MULTI And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* /= ( DIVISION And Assignement Operation) Operator Example*/
 
-c /= a;
+c /= a; /* which is c = c / a */
 
 printf("\n /= ( DIVISION And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* %= ( MODULUS And Assignement Operation) Operator Example*/
 
-c = 200;
+c = 200; 
 
-c %= a;
+c %= a; /* which is c = c % a */
 
-printf("\n %= ( MODULUS And Assignement Operation) Operator Example, Value of c = %d\n", c );
+printf("\n %%= ( MODULUS And Assignement Operation) Operator Example, Value of c = %d\n", c );
 
 /* <<= ( LEFT SHIFT And Assignement Operation) Operator Example*/
+
+c = 10;
 
 c <<= 2;
 
