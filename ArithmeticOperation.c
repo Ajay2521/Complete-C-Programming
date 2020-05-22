@@ -50,14 +50,14 @@ printf("\nThe Modulus of %d by %d is c = %d\n",a,b,c );
 
 /*Increment operator is used to increases the integer value by one.*/
 
-c = a++;
+a++;
 
-printf("\nThe Increment Value of %d is c = %d\n",a,c );
+printf("\nThe Increment Value of a is %d\n",a );
 
 /*Decrement operator is used to decreases the integer value by one.*/
 
-c = a--;
+a--;
 
-printf("\nThe Decrement Value of %d is c = %d\n",a,c );
+printf("\nThe Decrement Value of  a  is %d\n",a );
 
 }
