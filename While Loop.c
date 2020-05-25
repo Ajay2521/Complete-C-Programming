@@ -14,6 +14,8 @@ while(condition)
 
 	Statement(S) / block of code;
 
+	Increment;
+
 }
 
 */
