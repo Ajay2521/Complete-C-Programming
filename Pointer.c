@@ -4,7 +4,7 @@
 
 /*pointers are used for dynamic memory allocation ,which is used when we create a dynamic program*/
 
-/*Synatc to declear a Pointer Variable
+/*Synatx to declear a Pointer Variable
 
 DataType *var-name;
 
