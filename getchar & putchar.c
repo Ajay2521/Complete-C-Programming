@@ -16,9 +16,9 @@ void main()
 
 {
 
-printf("Enter your name : ");
-
 char c;
+
+printf("Enter your name : ");
 
 c = getchar();
 
