@@ -4,7 +4,7 @@ This is a complete C programming tutorial where you can learn all concepts in C 
 
 Before going directly into the code, have a look at README.md file and follow it .To make this tutorial useful.
 
-1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c)- In this simple C Program , its structure and working will be explained.
+1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c) - In this simple C Program , its structure and working will be explained.
 
 2. Data Type - In this major Data Type available in C Program has been explained.
 
@@ -12,13 +12,13 @@ Before going directly into the code, have a look at README.md file and follow it
 
 4. Escape Sequence - In this major special characters or escape sequence which is available in C Program has been explained
 
-5. Arithemetic Operation - In this Arithmetic Operation available in C Program has been explained.
+5. [Arithemetic Operation](https://github.com/maayon2521/Complete-C-Programming/blob/master/ArithmeticOperation.c) - In this Arithmetic Operation available in C Program has been explained.
 
 6. Relational Operation - In this Relational Operation available in C Program has been explained.
 
 7. Logical Operation - In this Logical Operation available in C Program has been explained.
 
-8. Assignment Operation - In this Assignment Operation available in C Program has been explained.
+8. [Assignment Operation](https://github.com/maayon2521/Complete-C-Programming/blob/master/AssignmentOperation.c) - In this Assignment Operation available in C Program has been explained.
 
 9. Misc Operation - In this Misc Operation avaliable in C Program has been explained.
 
@@ -36,7 +36,7 @@ Before going directly into the code, have a look at README.md file and follow it
 
 16. Nested Switch - In this Nested Switch statement in C Program has been explained.
 
-17. break - In this "break" control statement in C Program has been explained.
+17. [break](https://github.com/maayon2521/Complete-C-Programming/blob/master/Break.c) - In this "break" control statement in C Program has been explained.
 
 18. continue - In this "continue" control statement in C Program has been explained.
 
@@ -54,13 +54,13 @@ Before going directly into the code, have a look at README.md file and follow it
 
 25. Function - In this function concept in C Program has been explained.
 
-26. Call by Value - In this Call by Value method in C Program has been explained.
+26. [Call by Value](https://github.com/maayon2521/Complete-C-Programming/blob/master/Call%20By%20Value.c) - In this Call by Value method in C Program has been explained.
 
-27. Call by Reference - In this call by Reference method in C Program has been explained.
+27. [Call by Reference](https://github.com/maayon2521/Complete-C-Programming/blob/master/Call%20By%20Reference.c) - In this call by Reference method in C Program has been explained.
 
 28. Scope Rule - In this Scope Rule to be followed has been explained.
 
-29. Array - In this Array concept in C Program has been explained.
+29. [Array](https://github.com/maayon2521/Complete-C-Programming/blob/master/Array.c) - In this Array concept in C Program has been explained.
 
 30. Multi Dimensional Array - In this multi Dimensional Array concept has been explained by using Two Dimensional Array.
 
@@ -72,7 +72,7 @@ Before going directly into the code, have a look at README.md file and follow it
 
 34. Pointer Decrement - In this pointer decrement in C Program has been explained.
 
-35. Array of Pointer - In this Array of pointer concept in C Program has been explained.
+35. [Array of Pointer](https://github.com/maayon2521/Complete-C-Programming/blob/master/Array%20Of%20Pointer.c) - In this Array of pointer concept in C Program has been explained.
 
 36. Pointer to Pointer - In this pointer to pointer concept in C Program has been explained.
 
@@ -92,7 +92,7 @@ Before going directly into the code, have a look at README.md file and follow it
 
 44. Typedef in Structure - In this Typedef concept in C Program has been explained by using Structure.
 
-45. #define - In this #define concept in C Program has been explained.
+45. [#define](https://github.com/maayon2521/Complete-C-Programming/blob/master/%23define.c) - In this #define concept in C Program has been explained.
 
 46. getchar putchar - In this Input and output in C Program has been explained using getchar() and putchar().
 
