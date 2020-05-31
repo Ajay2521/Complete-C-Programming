@@ -8,6 +8,8 @@
 
 /*argv[] is a pointer array which is used to point each argument passed in the program*/
 
+/*NOTE : argv[0] is always used to point to the program name and its location in the local system*/ 
+
 /*command line argument is passed using main()*/
 
 /*syntax for passing command line
