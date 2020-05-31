@@ -4,7 +4,7 @@ This is a complete C programming tutorial where you can learn all concepts in C 
 
 Before going directly into the code, have a look at README.md file and follow it .To make this tutorial useful.
 
-1. [simple C Program] (https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c)- In this simple C Program , its structure and working will be explained.
+1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c)- In this simple C Program , its structure and working will be explained.
 
 2. Data Type - In this major Data Type available in C Program has been explained.
 
