@@ -160,7 +160,57 @@ MinGW = [https://sourceforge.net/projects/mingw/](https://sourceforge.net/projec
 
 </p>
 
+<p align="center">
 
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118513687-967de880-b751-11eb-9ad3-02b808810763.png" >
+
+</p>
+
+<p align="center">
+
+<img width="450" height="450" src="https://user-images.githubusercontent.com/60919132/118513842-b31a2080-b751-11eb-9744-c9a13270cbc1.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118514022-d2b14900-b751-11eb-91b6-7d90fcbb7052.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118514219-01c7ba80-b752-11eb-92a8-582cf191ae4f.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118514959-8d414b80-b752-11eb-8312-7a5b050b23b5.png" >
+
+</p>
+
+## Structure of C Programming:
+
+#include<stdio.h> /headerfile.
+
+void main() /main function.
+
+{           /block start.
+
+   printf("This is Ajay"); /statement.
+
+} /block end.
+
+## Compling the C Program:
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118516103-a4346d80-b753-11eb-9f97-32a1a3e021c6.png" >
+
+</p>
+
+## Programs:
 
 1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c) - In this simple C Program, its structure and working will be explained.
 
