@@ -4,7 +4,165 @@ This is a complete C programming tutorial where you can learn all concepts in C 
 
 Before going directly into the code, have a look at README.md file and follow it .To make this tutorial useful.
 
-1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c) - In this simple C Program , its structure and working will be explained.
+## Introduction:
+
++ C was developed by Dennis Ritchie
+
+### Why C Programmig?
+
++ Highly portable.
++ Execute faster.
++ General performance.
++ Easy to learn
+
+### What C Programming?
+
++ Mother Language = Base for other languages.
++ System Programming Language = Used to do Low-level programming.
++ Procedure-Oriented = Series of steps, functions, method.
++ Structured Language = parts or blocks.
+
+### Where C Programming?
++ Operating system.
++ Assemblers.
++ Database.
++ Network.
++ Compiler Design.
+
+## Compiler Installation:
+
+MinGW = [https://sourceforge.net/projects/mingw/](https://sourceforge.net/projects/mingw/)
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118508710-0dfd4900-b74d-11eb-8ee6-750f29baf8ea.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118509387-9b409d80-b74d-11eb-8889-2d1101c9fb04.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118509572-c4f9c480-b74d-11eb-968e-6d934829b5c8.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118509726-ee1a5500-b74d-11eb-90ed-20c05906f3bb.png" >
+
+</p>
+
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510028-36d20e00-b74e-11eb-8e92-793c8162c348.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510235-641ebc00-b74e-11eb-9214-80855998874a.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510361-86183e80-b74e-11eb-81fd-a9f1d3bc7da1.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510686-cecff780-b74e-11eb-81e6-38789347ab8b.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510804-ec9d5c80-b74e-11eb-8fb0-210bcd317203.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510933-0e96df00-b74f-11eb-812c-51fa52c0fa55.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118511013-22dadc00-b74f-11eb-9e16-de3173c02ea4.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118511170-4736b880-b74f-11eb-937f-4907cf2ab1fe.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118510933-0e96df00-b74f-11eb-812c-51fa52c0fa55.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118511013-22dadc00-b74f-11eb-9e16-de3173c02ea4.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118512062-1b680280-b750-11eb-87eb-268fc0928f9f.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118512474-739f0480-b750-11eb-9381-83bdb960f88b.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118511013-22dadc00-b74f-11eb-9e16-de3173c02ea4.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118511170-4736b880-b74f-11eb-937f-4907cf2ab1fe.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118512970-dee8d680-b750-11eb-8394-5ef7a4c216d3.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118513184-1788b000-b751-11eb-9665-b0a747d5e14a.png" >
+
+</p>
+
+<p align="center">
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/60919132/118513244-2707f900-b751-11eb-8acc-58af89741e5c.png" >
+
+</p>
+
+
+
+1. [simple C Program](https://github.com/maayon2521/Complete-C-Programming/blob/master/SimpleCProgram.c) - In this simple C Program, its structure and working will be explained.
 
 2. [Data Type](https://github.com/maayon2521/Complete-C-Programming/blob/master/DataType.c) - In this major Data Type available in C Program has been explained.
 
